@@ -1,0 +1,16 @@
+{
+   "general": [
+      {
+         "question": "What is the capital of France?",
+         "choices": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+         "answer": "C"
+      }
+   ],
+   "math": [
+      {
+         "question": "What is 5 + 3?",
+         "choices": ["A. 6", "B. 7", "C. 8", "D. 9"],
+         "answer": "C"
+      }
+   ]
+}
