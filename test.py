@@ -14,9 +14,9 @@ questions = [
         "answer": "B"
     },
     {
-        "question": "Who wrote 'To Kill a Mockingbird'?",
-        "choices": ["A. J.K. Rowling", "B. Harper Lee", "C. Ernest Hemingway", "D. Mark Twain"],
-        "answer": "B"
+        "question": "Where is Hyrax hills located?",
+        "choices": ["A. Mombasa", "B. Nairobi", "C. Kisumu", "D. Nakuru"],
+        "answer": "D"
     }
 ]
 
