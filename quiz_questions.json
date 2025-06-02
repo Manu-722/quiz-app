@@ -4,6 +4,21 @@
          "question": "What is the capital of France?",
          "choices": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
          "answer": "C"
+      },
+      {
+         "question": "Which country is famous for the Great Wall?",
+         "choices": ["A. India", "B. China", "C. Japan", "D. Russia"],
+         "answer": "B"
+      },
+      {
+         "question": "What is the largest ocean on Earth?",
+         "choices": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
+         "answer": "D"
+      },
+      {
+         "question": "Which continent is the Sahara Desert located in?",
+         "choices": ["A. Asia", "B. North America", "C. Africa", "D. Australia"],
+         "answer": "C"
       }
    ],
    "math": [
@@ -11,6 +26,43 @@
          "question": "What is 5 + 3?",
          "choices": ["A. 6", "B. 7", "C. 8", "D. 9"],
          "answer": "C"
+      },
+      {
+         "question": "Solve: 12 - 4",
+         "choices": ["A. 6", "B. 8", "C. 9", "D. 10"],
+         "answer": "B"
+      },
+      {
+         "question": "What is 10 * 2?",
+         "choices": ["A. 15", "B. 20", "C. 25", "D. 30"],
+         "answer": "B"
+      },
+      {
+         "question": "What is 50/5?",
+         "choices": ["A. 8", "B. 10", "C. 15", "D. 12"],
+         "answer": "B"
+      }
+   ],
+   "science": [
+      {
+         "question": "Which planet is known as the Red Planet?",
+         "choices": ["A. Earth", "B. Mars", "C. Venus", "D. Jupiter"],
+         "answer": "B"
+      },
+      {
+         "question": "What is H2O?",
+         "choices": ["A. Oxygen", "B. Hydrogen", "C. Water", "D. Carbon dioxide"],
+         "answer": "C"
+      },
+      {
+         "question": "Which gas do humans breathe in?",
+         "choices": ["A. Oxygen", "B. Nitrogen", "C. Carbon dioxide", "D. Hydrogen"],
+         "answer": "A"
+      },
+      {
+         "question": "What force keeps planets in orbit around the Sun?",
+         "choices": ["A. Magnetism", "B. Gravity", "C. Friction", "D. Electricity"],
+         "answer": "B"
       }
    ]
 }
